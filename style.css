@@ -1,0 +1,39 @@
+body{
+  background-color: #2a8dcb;
+}
+h1{
+  text-align: center;
+  background-color: #244e7b;
+  color: #5cad8e;
+}
+main{
+  width: 940px;
+  margin: 0 auto;
+}
+
+form{
+  margin: 40px 0;
+}
+
+form label, form legend{
+  display:block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.input-padrao{
+  display:block;
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  width: 50%;
+}
+
+.checkbox{
+  margin: 20px 0;
+}
+#horario{
+  display:block;
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  width: 15%;
+}
