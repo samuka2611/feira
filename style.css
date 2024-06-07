@@ -1,5 +1,5 @@
 body{
-  background-color: #2a8dcb;
+  background-color: #32aad2;
 }
 h1{
   text-align: center;
@@ -36,4 +36,13 @@ form label, form legend{
   margin-bottom: 20px;
   padding: 10px 15px;
   width: 15%;
+}
+.game-board{
+  width:40%;
+  height:700px;
+  border:5px outset #2a1dd7;
+  margin:0 auto;
+   position:static;
+   overflow:hidden;
+  background-color: #2a8dcb;
 }
